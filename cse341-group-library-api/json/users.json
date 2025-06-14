@@ -1,0 +1,43 @@
+[
+    {
+      "firstName": "Emily",
+      "lastName": "Chen",
+      "email": "e.chen@library.org",
+      "phone": "555-123-4567",
+      "position": "Librarian",
+      "startDate": "2017-06-12"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Martinez",
+      "email": "d.martinez@library.org",
+      "phone": "555-234-5678",
+      "position": "Library Assistant",
+      "startDate": "2019-09-03"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Nguyen",
+      "email": "s.nguyen@library.org",
+      "phone": "555-345-6789",
+      "position": "Archivist",
+      "startDate": "2021-02-25"
+    },
+    {
+      "firstName": "James",
+      "lastName": "O'Connor",
+      "email": "j.oconnor@library.org",
+      "phone": "555-456-7890",
+      "position": "Technical Services Manager",
+      "startDate": "2015-11-18"
+    },
+    {
+      "firstName": "Aisha",
+      "lastName": "Khan",
+      "email": "a.khan@library.org",
+      "phone": "555-567-8901",
+      "position": "Library Director",
+      "startDate": "2012-03-04"
+    }
+  ]
+  

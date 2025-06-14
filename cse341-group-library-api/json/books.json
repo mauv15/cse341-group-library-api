@@ -1,0 +1,45 @@
+[{
+  "ISBN": "9780140449136",
+  "Title": "The Odyssey",
+  "Author": "Homer",
+  "publicationYear": 1999,
+  "Genre": "Epic Poetry",
+  "Pages": 560,
+  "userRating": 4.5
+},
+{
+  "ISBN": "9780061120084",
+  "Title": "To Kill a Mockingbird",
+  "Author": "Harper Lee",
+  "publicationYear": 1960,
+  "Genre": "Fiction",
+  "Pages": 336,
+  "userRating": 4.8
+},
+{
+  "ISBN": "9780307277671",
+  "Title": "The Road",
+  "Author": "Cormac McCarthy",
+  "publicationYear": 2006,
+  "Genre": "Post-Apocalyptic Fiction",
+  "Pages": 287,
+  "userRating": 4.2
+},
+{
+  "ISBN": "9780439139601",
+  "Title": "Harry Potter and the Goblet of Fire",
+  "Author": "J.K. Rowling",
+  "publicationYear": 2000,
+  "Genre": "Fantasy",
+  "Pages": 734,
+  "userRating": 4.9
+},
+{
+  "ISBN": "9780451524935",
+  "Title": "1984",
+  "Author": "George Orwell",
+  "publicationYear": 1949,
+  "Genre": "Dystopian",
+  "Pages": 320,
+  "userRating": 4.6
+}]
