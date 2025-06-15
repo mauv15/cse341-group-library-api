@@ -39,7 +39,7 @@ const createMovie = async (req, res) => {
             director: req.body.director,
             year: req.body.year,
             genre: req.body.genre,
-            distributor: req.body.distrubitor,
+            distributor: req.body.distributor,
             userRating: req.body.userRating
         };
         const response = await mongodb.getDb().db().collection('movies').insertOne(movie);
@@ -66,7 +66,7 @@ const updateMovie = async (req, res) => {
             director: req.body.director,
             year: req.body.year,
             genre: req.body.genre,
-            distributor: req.body.distrubitor,
+            distributor: req.body.distributor,
             userRating: req.body.userRating
         };
         const response = await mongodb.getDb().db().collection('movies').replaceOne({ _id: movieId }, movie);
